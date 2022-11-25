@@ -1,2 +1,3 @@
 # discord-to-line-server
-This Repository is __unimplimented!__
+This repository uses __serenity__ to make discord bot
+Line bot is working on GAS(Google Apps Script)
